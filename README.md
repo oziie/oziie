@@ -1,8 +1,10 @@
 ### Hi there, it's Ozan 👋
 
-- 🔭 I’m currently working on sysops, devops things
+- 🔭 I’m currently working on SysOps, DevOps things
 
 ## Skills
+
+<a href="https://www.docker.com" target="_blank"> <img src="icons/docker.svg" width=40 height=40 alt="docker"/></a>
 
 
 <!--
