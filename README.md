@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi there, it's Ozan 👋
 
-It's oziie..
+- 🔭 I’m currently working on sysops, devops things
+
+## Skills
+
 
 <!--
 **oziie/oziie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
