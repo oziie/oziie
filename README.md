@@ -8,8 +8,8 @@
 - 📖 working & keeping up to be a lifetime learner and best effort person
 - ☕ coffee/tea addict (filter coffee/turkish tea pls), 
 - 🏀 hooper (T-Mac, Vesely, Bogdanovic my legends)
-- ⚡ motto: believe the fate, follow the way, feel relieved, do your best cuz you're alive & have every posibility to live.
-- 📝 quote: Success is impeccable effort. Not the performance or the result - David Blatt
+- ⚡ motto: believe the fate, follow the way, feel relieved, do your best cuz you're alive & have every posibility to live
+- 📝 quote: Success is impeccable effort. Not the performance or the result. - David Blatt
 
 ## 🧰 Skills
 
