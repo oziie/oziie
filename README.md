@@ -1,6 +1,8 @@
 
 <h1>Hi there, I'm Ozan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
-<center><img src="icons/nokia-logo.png" alt="Nokia" height="40" width="120"></center>
+<p align="center" width="100%">
+    <img width="15%" src="icons/nokia-logo.png">
+</p>
 <h3 align="center">Infrastructure Platform Engineer, Nokia</h3>
 
 - 🔭 exploring new techs, developing better approaches on existing ones and improve the way how I play
@@ -16,6 +18,7 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="icons/linux.svg" width=40 height=40 alt="linux"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="icons/git.svg" width=40 height=40 alt="git"/></a>
 <a href="https://github.com/" target="_blank"> <img src="icons/github.svg" width=40 height=40 alt="github"/></a>
+<a href="https://about.gitlab.com/" target="_blank"> <img src="icons/gitlab.png" width=40 height=40 alt="gitlab"/></a>
 <a href="https://aws.amazon.com/" target="_blank"> <img src="icons/aws.svg" width=40 height=40 alt="aws"/></a>
 <a href="https://www.docker.com" target="_blank"> <img src="icons/docker.svg" width=40 height=40 alt="docker"/></a>
 <a href="https://kubernetes.io/" target="_blank"> <img src="icons/kubernetes.svg" width=40 height=40 alt="kubernetes"/></a>
