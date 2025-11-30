@@ -1,9 +1,9 @@
 
 <h1>Hi there, I'm Ozan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
-<p align="center" width="100%">
-    <img width="15%" src="icons/nokia-logo.png">
-</p>
-<h3 align="center">Infrastructure Platform Engineer, Nokia</h3>
+#<p align="center" width="100%">
+#    <img width="15%" src="icons/icon_file_here.png">
+#</p>
+<h3 align="center">Platform & DevOps Engineer</h3>
 
 - 🔭 exploring new techs, developing better approaches on existing ones and improve the way how I play
 - 💬 ask me about Linux, SysOps and DevOps
