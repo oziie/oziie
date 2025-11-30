@@ -3,7 +3,7 @@
 <h3 align="center">Platform & DevOps Engineer</h3>
 
 - 🔭 exploring new techs, developing better approaches on existing ones and improve the way how I play
-- 💬 ask me about Linux, SysOps and DevOps
+- 💬 ask me about Linux, Baremetal/Virtualized/Cloud Platform and DevOps
 - 📖 working & keeping up to be a lifetime learner and best effort person
 - ☕ coffee/tea addict (filter coffee/turkish tea pls), 
 - 🏀 hooper (T-Mac, Vesely, Bogdanovic my legends)
